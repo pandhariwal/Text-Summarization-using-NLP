@@ -1,0 +1,1 @@
+Hello, my name is Vinay, and today we are talking about natural language processing, with his certainly of one of the most important part of machine learning, for this process are given a time limit of 20 seconds so after 20 seconds, it is going to stop automatically for Basically, now 
